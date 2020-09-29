@@ -32,7 +32,12 @@ Curious what I've done on recently?
         </a>
       </td>
       <td>HTML</td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+        </a>
+      </td>
+      <td>TypeScript</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -89,10 +94,10 @@ Curious what I've done on recently?
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
         </a>
       </td>
-      <td>TypeScript</td>
+      <td>NodeJS</td>
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
@@ -106,10 +111,10 @@ Curious what I've done on recently?
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
         </a>
       </td>
-      <td>NodeJS</td>
+      <td>PHP</td>
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
@@ -121,12 +126,7 @@ Curious what I've done on recently?
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-        </a>
-      </td>
-      <td>PHP</td>
+      <td colspan="2"></td>
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
