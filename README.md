@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **HeyHeyChicken**, an open-source enthusiast and avid contributor.<br/>
-I'm the author of <a href="">NOVA</a>, Non-Natural-Language-Processing and a bunch of other projects. Curious what I've done on recently?
+I'm the author of <a href="https://github.com/HeyHeyChicken/NOVA">NOVA</a>, <a href="https://github.com/HeyHeyChicken/Non-Natural-Language-Processing">Non-Natural-Language-Processing</a> and a bunch of other projects. Curious what I've done on recently?
 
 <!--
 **HeyHeyChicken/HeyHeyChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
