@@ -29,6 +29,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       </td>
       <td>HTML</td>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+      </td>
+      <td>React</td>
     </tr>
     <tr>
       <td>
@@ -61,27 +66,18 @@ Curious what I've done on recently?
       </td>
       <td>NodeJS</td>
     </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+      </td>
+      <td>PHP</td>
+    </tr>
   </tbody>
 </table>
 
 <table>
   <tbody>
-    <tr title="PHP : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
-    <tr title="React : 2/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-        </a>
-      </td>
-      <td>🌕🌕🌑🌑🌑</td>
-    </tr>
     <tr title="Vue : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
