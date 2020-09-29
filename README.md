@@ -55,6 +55,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
       </td>
       <td>jQuery</td>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+      </td>
+      <td>MySQL</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -82,14 +87,6 @@ Curious what I've done on recently?
 
 <table>
   <tbody>
-    <tr title="MySQL : 2/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-        </a>
-      </td>
-      <td>🌕🌕🌑🌑🌑</td>
-    </tr>
     <tr title="Java : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
@@ -116,18 +113,3 @@ Curious what I've done on recently?
     </tr>
   </tbody>
 </table>
-
-<!--
-**HeyHeyChicken/HeyHeyChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
