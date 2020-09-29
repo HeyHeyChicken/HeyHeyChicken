@@ -14,7 +14,7 @@ Curious what I've done on recently?
       <td>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       </td>
-      <td>⭐️⭐️⭐️⭐️<span>⭐️</span>🌑</td>
+      <td>⭐️⭐️⭐️⭐️<span style="filter: grayscale(1);">⭐️</span>🌑</td>
     </tr>
     <tr>
       <td>
