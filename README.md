@@ -33,6 +33,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
       </td>
       <td>React</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td>
@@ -48,6 +49,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
       </td>
       <td>Vue</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -60,6 +62,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
       </td>
       <td>MySQL</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -72,6 +75,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
       </td>
       <td>Java</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -84,6 +88,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
       </td>
       <td>Android</td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -96,6 +101,7 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
       </td>
       <td>C#</td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
