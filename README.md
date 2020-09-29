@@ -12,85 +12,113 @@ Curious what I've done on recently?
   <tbody>
     <tr>
       <td>
-        <a href=""><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌕</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌕</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌑🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+        </a>
       </td>
       <td>🌕🌕🌕🌑🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+        </a>
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+        </a>
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+        </a>
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
     <tr>
       <td>
-        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+        </a>
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
