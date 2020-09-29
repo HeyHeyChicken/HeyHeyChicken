@@ -9,6 +9,27 @@ Curious what I've done on recently?
 **My skills:**
 
 <table>
+  <thead>
+    <tr>
+      <th>🌕🌕🌕🌕🌕</th>
+      <th>🌕🌕🌕🌕🌑</th>
+      <th>🌕🌕🌕🌑🌑</th>
+      <th>🌕🌕🌑🌑🌑</th>
+      <th>🌕🌑🌑🌑🌑</th>
+      <th>🌑🌑🌑🌑🌑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+      </td>
+      <td>CSS</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
   <tbody>
     <tr title="CSS : 5/5">
       <td>
