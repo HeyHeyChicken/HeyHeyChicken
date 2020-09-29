@@ -34,10 +34,10 @@ Curious what I've done on recently?
       <td>HTML</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
         </a>
       </td>
-      <td>TypeScript</td>
+      <td>Javascript</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -58,13 +58,13 @@ Curious what I've done on recently?
         </a>
       </td>
       <td>SASS</td>
+      <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
         </a>
       </td>
-      <td>Javascript</td>
-      <td colspan="2"></td>
+      <td>TypeScript</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
