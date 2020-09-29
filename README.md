@@ -16,7 +16,6 @@ Curious what I've done on recently?
       <th colspan="2">🌕🌕🌕🌑🌑</th>
       <th colspan="2">🌕🌕🌑🌑🌑</th>
       <th colspan="2">🌕🌑🌑🌑🌑</th>
-      <th colspan="2">🌑🌑🌑🌑🌑</th>
     </tr>
   </thead>
   <tbody>
@@ -44,6 +43,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
       </td>
       <td>Javascript</td>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+      </td>
+      <td>Vue</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -78,14 +82,6 @@ Curious what I've done on recently?
 
 <table>
   <tbody>
-    <tr title="Vue : 2/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-        </a>
-      </td>
-      <td>🌕🌕🌑🌑🌑</td>
-    </tr>
     <tr title="MySQL : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
