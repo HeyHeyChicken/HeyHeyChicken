@@ -4,7 +4,7 @@ I'm **HeyHeyChicken**, an open-source enthusiast and avid contributor.<br/>
 I'm the author of <a href="https://github.com/HeyHeyChicken/NOVA">NOVA</a>, <a href="https://github.com/HeyHeyChicken/Non-Natural-Language-Processing">Non-Natural-Language-Processing</a> and a bunch of other projects.<br/>
 Curious what I've done on recently?
 
-[![HeyHeyChicken's github stats](https://github-readme-stats.vercel.app/api?username=HeyHeyChicken)](https://github.com/HeyHeyChicken)
+[![HeyHeyChicken's github stats](https://github-readme-stats.vercel.app/api?username=HeyHeyChicken&hide=prs)](https://github.com/HeyHeyChicken)
 
 **My skills:**
 
