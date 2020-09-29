@@ -41,34 +41,31 @@ Curious what I've done on recently?
       <td>Javascript</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td colspan="2"></td>
       <td>
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
       </td>
       <td>jQuery</td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+      </td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+      </td>
+      <td>NodeJS</td>
     </tr>
   </tbody>
 </table>
 
 <table>
   <tbody>
-    <tr title="TypeScript : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
-    <tr title="NodeJS : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
     <tr title="PHP : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
