@@ -58,7 +58,12 @@ Curious what I've done on recently?
         </a>
       </td>
       <td>SASS</td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/*/jquery.png">
+        </a>
+      </td>
+      <td>jQuery</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -75,12 +80,7 @@ Curious what I've done on recently?
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
-        </a>
-      </td>
-      <td>jQuery</td>
+      <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
