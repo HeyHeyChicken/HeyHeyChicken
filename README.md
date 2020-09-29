@@ -34,7 +34,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="Javascript : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -42,7 +42,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="jQuery : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
@@ -50,7 +50,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="TypeScript : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -58,7 +58,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="NodeJS : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -66,7 +66,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="PHP : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
@@ -74,23 +74,23 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌑</td>
     </tr>
-    <tr>
+    <tr title="React : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
         </a>
       </td>
-      <td>🌕🌕🌕🌑🌑</td>
+      <td>🌕🌕🌑🌑🌑</td>
     </tr>
-    <tr>
+    <tr title="Vue : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
         </a>
       </td>
-      <td>🌕🌕🌕🌑🌑</td>
+      <td>🌕🌕🌑🌑🌑</td>
     </tr>
-    <tr>
+    <tr title="MySQL : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -98,7 +98,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
-    <tr>
+    <tr title="Java : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
@@ -106,7 +106,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
-    <tr>
+    <tr title="Android : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
@@ -114,7 +114,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌑🌑🌑</td>
     </tr>
-    <tr>
+    <tr title="C# : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
