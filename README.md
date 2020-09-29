@@ -79,6 +79,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       </td>
       <td>NodeJS</td>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+      </td>
+      <td>Android</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -86,34 +91,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
       </td>
       <td>PHP</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr title="Java : 2/5">
+      <td colspan="2"></td>
       <td>
-        <a href="https://github.com/HeyHeyChicken">
-        </a>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
       </td>
-      <td>🌕🌕🌑🌑🌑</td>
-    </tr>
-    <tr title="Android : 2/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-        </a>
-      </td>
-      <td>🌕🌕🌑🌑🌑</td>
-    </tr>
-    <tr title="C# : 2/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-        </a>
-      </td>
-      <td>🌕🌕🌑🌑🌑</td>
+      <td>C#</td>
     </tr>
   </tbody>
 </table>
