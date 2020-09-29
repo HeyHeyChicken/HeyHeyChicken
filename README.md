@@ -10,15 +10,15 @@ Curious what I've done on recently?
 
 <table>
   <tbody>
-    <tr>
+    <tr title="CSS : 5/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
         </a>
       </td>
-      <td title="5/5">🌕🌕🌕🌕🌕</td>
+      <td>🌕🌕🌕🌕🌕</td>
     </tr>
-    <tr>
+    <tr title="SASS : 5/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
@@ -26,7 +26,7 @@ Curious what I've done on recently?
       </td>
       <td>🌕🌕🌕🌕🌕</td>
     </tr>
-    <tr>
+    <tr title="HTML : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
