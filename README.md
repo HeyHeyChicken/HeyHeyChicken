@@ -67,6 +67,11 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
       </td>
       <td>TypeScript</td>
+      <td colspan="2"></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+      </td>
+      <td>Java</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -90,7 +95,6 @@ Curious what I've done on recently?
     <tr title="Java : 2/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
         </a>
       </td>
       <td>🌕🌕🌑🌑🌑</td>
