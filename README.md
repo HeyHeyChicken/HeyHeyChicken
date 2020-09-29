@@ -11,11 +11,11 @@ Curious what I've done on recently?
 <table>
   <thead>
     <tr>
-      <th colspan="2">🌕🌕🌕🌕🌕</th>
-      <th colspan="2">🌕🌕🌕🌕🌑</th>
-      <th colspan="2">🌕🌕🌕🌑🌑</th>
-      <th colspan="2">🌕🌕🌑🌑🌑</th>
-      <th colspan="2">🌕🌑🌑🌑🌑</th>
+      <th colspan="2" title="5/5">🌕🌕🌕🌕🌕</th>
+      <th colspan="2" title="4/5">🌕🌕🌕🌕🌑</th>
+      <th colspan="2" title="3/5">🌕🌕🌕🌑🌑</th>
+      <th colspan="2" title="2/5">🌕🌕🌑🌑🌑</th>
+      <th colspan="2" title="1/5">🌕🌑🌑🌑🌑</th>
     </tr>
   </thead>
   <tbody>
