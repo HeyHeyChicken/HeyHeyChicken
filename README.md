@@ -25,52 +25,34 @@ Curious what I've done on recently?
         <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
       </td>
       <td>CSS</td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+      </td>
+      <td>HTML</td>
+    </tr>
+    <tr>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+      </td>
+      <td>SASS</td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+      </td>
+      <td>Javascript</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>
+        <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
+      </td>
+      <td>jQuery</td>
     </tr>
   </tbody>
 </table>
 
 <table>
   <tbody>
-    <tr title="CSS : 5/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌕</td>
-    </tr>
-    <tr title="SASS : 5/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌕</td>
-    </tr>
-    <tr title="HTML : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
-    <tr title="Javascript : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
-    <tr title="jQuery : 4/5">
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
-        </a>
-      </td>
-      <td>🌕🌕🌕🌕🌑</td>
-    </tr>
     <tr title="TypeScript : 4/5">
       <td>
         <a href="https://github.com/HeyHeyChicken">
