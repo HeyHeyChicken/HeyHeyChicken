@@ -22,7 +22,7 @@ Curious what I've done on recently?
     <tr>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img width="20" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
         </a>
       </td>
       <td>CSS</td>
