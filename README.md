@@ -103,7 +103,12 @@ Curious what I've done on recently?
     <tr>
       <td colspan="2"></td>
       <td colspan="2"></td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+        </a>
+      </td>
+      <td>C#</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
