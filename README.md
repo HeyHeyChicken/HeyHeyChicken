@@ -102,12 +102,7 @@ Curious what I've done on recently?
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-        </a>
-      </td>
-      <td>PHP</td>
+      <td colspan="2"></td>
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
@@ -140,6 +135,17 @@ Curious what I've done on recently?
       </td>
       <td>C#</td>
       <td colspan="2"></td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td colspan="2"></td>
+      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+        </a>
+      </td>
+      <td>PHP</td>
     </tr>
   </tbody>
 </table>
