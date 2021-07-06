@@ -119,7 +119,12 @@ Curious what I've done on recently?
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://www.sparks-formation.com/wp-content/uploads/2021/03/logo-Blazor.png">
+        </a>
+      </td>
+      <td>Blazor</td>
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
