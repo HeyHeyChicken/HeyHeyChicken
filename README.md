@@ -139,12 +139,5 @@ Curious what I've done on recently?
       <td>Android</td>
       <td colspan="2"></td>
     </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-    </tr>
   </tbody>
 </table>
