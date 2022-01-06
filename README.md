@@ -72,10 +72,10 @@ Curious what I've done on recently?
       <td>TypeScript</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
         </a>
       </td>
-      <td>Vue</td>
+      <td>PHP</td>
       <td colspan="2"></td>
     </tr>
     <tr>
@@ -108,7 +108,12 @@ Curious what I've done on recently?
         </a>
       </td>
       <td>C#</td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>Vue</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
@@ -138,12 +143,7 @@ Curious what I've done on recently?
       <td colspan="2"></td>
       <td colspan="2"></td>
       <td colspan="2"></td>
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-        </a>
-      </td>
-      <td>PHP</td>
+      <td colspan="2"></td>
       <td colspan="2"></td>
     </tr>
   </tbody>
