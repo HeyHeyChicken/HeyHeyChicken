@@ -139,5 +139,17 @@ Curious what I've done on recently?
       <td>Android</td>
       <td colspan="2"></td>
     </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td colspan="2"></td>
+      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg">
+        </a>
+      </td>
+      <td>Dart</td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
