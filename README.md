@@ -145,7 +145,7 @@ Curious what I've done on recently?
       <td colspan="2"></td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg">
+          <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
         </a>
       </td>
       <td>Dart</td>
