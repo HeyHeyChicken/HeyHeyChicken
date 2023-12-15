@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **HeyHeyChicken**, an open-source enthusiast and avid contributor.<br/>
-I'm the author of <a href="https://github.com/HeyHeyChicken/Nova-python">NOVA</a>, <a href="https://github.com/HeyHeyChicken/Non-Natural-Language-Processing">Non-Natural-Language-Processing</a>, <a href="https://github.com/HeyHeyChicken/No-Clock">No-Clock</a> and a bunch of other projects.<br/>
+I'm the author of <a href="https://github.com/HeyHeyChicken/Nova-python">NOVA</a>, <a href="https://github.com/HeyHeyChicken/Non-Natural-Language-Processing">Non-Natural-Language-Processing</a>, <a href="https://github.com/HeyHeyChicken/No-Clock">No-Clock</a>, <a href="https://evabattleplan.com/">EVA Battle Plan</a>, and a bunch of other projects.<br/>
 Curious what I've done on recently?
 
 **My skills:**
