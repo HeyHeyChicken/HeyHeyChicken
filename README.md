@@ -161,12 +161,5 @@ Curious what I've done on recently?
       <td colspan="2"></td>
       <td colspan="2"></td>
     </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-      <td colspan="2"></td>
-    </tr>
   </tbody>
 </table>
