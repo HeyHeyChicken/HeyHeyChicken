@@ -95,7 +95,12 @@ Curious what I've done on recently?
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td colspan="2"></td>
+      <td>
+        <a href="https://github.com/HeyHeyChicken">
+          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+        </a>
+      </td>
+      <td>Angular</td>
       <td>
         <a href="https://github.com/HeyHeyChicken">
           <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;">
@@ -159,12 +164,7 @@ Curious what I've done on recently?
     <tr>
       <td colspan="2"></td>
       <td colspan="2"></td>
-      <td>
-        <a href="https://github.com/HeyHeyChicken">
-          <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-        </a>
-      </td>
-      <td>Angular</td>
+      <td colspan="2"></td>
       <td colspan="2"></td>
       <td colspan="2"></td>
     </tr>
